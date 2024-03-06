@@ -1,0 +1,241 @@
+.pag-section {
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  overflow: hidden;
+}
+
+.bgi-light {
+  background-color: #f8f9fa !important;
+}
+
+.containerr {
+    min-width: 992px !important;
+  }
+
+.card-blog {
+  position: relative;
+  display: block;
+  max-width: 264px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #E5E5E5;
+  overflow: hidden;
+}
+
+.card-blog .header {
+  width: 100%;
+  height: 140px;
+  background-color: #9A9F97;
+  overflow: hidden;
+}
+
+.card-blog .header .post-thumb {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-blog .header .post-thumb img {
+  width: 100%;
+  transition: transform .2s linear;
+}
+
+.card-blog .header .post-thumb:hover img {
+  transform: scale(1.2);
+}
+
+.card-blog .body {
+  padding: 15px 20px;
+}
+
+.card-blog .post-category {
+  position: relative;
+  top: 15px;
+  left: 20px;
+  z-index: 9;
+}
+
+.card-blog .post-category a {
+  display: inline-block;
+  padding: 4px 8px;
+  font-size: 12px;
+  background-color: #4E5AFE;
+  color: #fff;
+  border-radius: 40px;
+  position: relative;
+}
+
+.card-blog .post-category a:hover {
+  text-decoration: none;
+}
+
+.card-blog .post-title,
+.card-blog .post-title a {
+  color: #343531;
+}
+
+.card-blog .post-title:hover,
+.card-blog .post-title a:hover {
+  text-decoration: none;
+  color: #07be94;
+}
+
+.card-blog .site-info {
+  margin-top: 12px;
+  font-size: 12px;
+  color: #6D7170;
+}
+
+.card-blog .avatar-img {
+  width: 28px;
+  height: 28px;
+}
+
+.blog-details {
+  position: relative;
+  display: block;
+}
+
+.blog-details .post-thumb {
+  position: relative;
+  display: block;
+  margin-bottom: 32px;
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(154, 159, 151, 0.3);
+}
+
+.blog-details .post-title {
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+
+.blog-details .post-content {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #6E807A;
+}
+
+.blog-details .post-thumb img {
+  width: 100%;
+}
+
+.blog-details .post-meta {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 16px;
+}
+
+.blog-details .post-meta a {
+  color: #6E807A;
+}
+
+.blog-details .post-meta a:hover {
+  color: #07be94;
+  text-decoration: none;
+}
+
+.blog-details .post-meta .divider {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.blog-details .post-tags {
+  display: block;
+  padding: 16px 0;
+}
+
+.blog-details .post-tags a {
+  display: inline-block;
+  padding: 4px 12px;
+  background-color: #596261;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 40px;
+  transition: all .2s ease;
+}
+
+.blog-details .post-tags a:hover {
+  text-decoration: none;
+  background-color: #07be94;
+  color: #fff;
+}
+
+.mai-time:before {
+  content: "\eb6c";
+}
+.mai-time-outline:before {
+  content: "\eb6d";
+}
+.card-blog .site-info {
+  margin-top: 12px;
+  font-size: 12px;
+  color: #6D7170;
+}
+
+.topbar .site-info a {
+  display: inline-flex;
+  align-items: center;
+  color: #A1AAA7;
+}
+
+.topbar .site-info a:hover {
+  text-decoration: none;
+}
+
+.topbar .site-info a span {
+  font-size: 16px;
+  margin-right: 6px;
+}
+
+.topbar .site-info .divider {
+  margin-left: 8px;
+  margin-right: 8px;
+  color: #BEC8B8;
+}
+.card-blog .bodyy {
+  padding: 15px 20px;
+}
+
+.blog-item .post-thumb {
+  flex-shrink: 0;
+  position: relative;
+  display: inline-block;
+  margin-right: 15px;
+  width: 100px;
+  height: auto;
+  background-color: #A1AAA7;
+  overflow: hidden;
+}
+
+.blog-item .post-thumb img {
+  width: auto;
+  height: 100%;
+}
+.blog-details .post-thumb img {
+  width: 100%;
+}
+.blog-details .post-thumb {
+  position: relative;
+  display: block;
+  margin-bottom: 32px;
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(154, 159, 151, 0.3);
+}
+.card-blog .header .post-thumb {
+  position: relative;
+  overflow: hidden;
+}
+
+.card-blog .header .post-thumb img {
+  width: 100%;
+  transition: transform .2s linear;
+}
+
+.card-blog .header .post-thumb:hover img {
+  transform: scale(1.2);
+}
